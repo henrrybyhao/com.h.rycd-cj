@@ -1,0 +1,13 @@
+{
+    "name": "日语词典导入助手",
+    "icon": "icon.png",
+    "version": "1.0.3",
+    "description": "连接日语词典并导入自定义单词",
+    "author": "号",
+    "website": "https://afdian.com/a/velabyh",
+    "entry": "japanese_dictionary_astrobox_plugin.wasm",
+    "wasi_version": 2,
+    "api_level": 3,
+    "permissions": ["device", "interconnect", "register_interconnect_recv", "thirdpartyapp"],
+    "additional_files": ["LICENSE"]
+}
