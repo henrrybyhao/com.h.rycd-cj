@@ -1,8 +1,8 @@
 {
-    "name": "日语词典导入助手",
+    "name": "日语词典",
     "icon": "icon.png",
-    "version": "1.0.3",
-    "description": "连接日语词典并导入自定义单词",
+    "version": "1.0.7",
+    "description": "连接日语单词或日语词典并导入自定义单词",
     "author": "号",
     "website": "https://afdian.com/a/velabyh",
     "entry": "japanese_dictionary_astrobox_plugin.wasm",
