@@ -20,11 +20,8 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-词典数据来源与许可
+在线服务来源与说明
 
-在线查询数据由 EDRDG 提供，来源为 JMdict/EDICT（WWWJDIC 日英查询）。
-词典数据适用 CC BY-SA 4.0，独立于上述插件代码许可。
-许可与署名要求：https://www.edrdg.org/edrdg/licence.html
-来源说明：https://www.edrdg.org/wwwjdic/wwwjdicinf.html
+在线查询使用 MyMemory Translation API，接口说明：https://mymemory.translated.net/doc/spec.php
 插件按需查询，不下载整库；仅经用户选择、预览确认的词条发送手表。
-在线结果可能为英文释义，用户可在预览中编辑为中文；本地搜索支持中文。
+在线服务为公共翻译接口，结果受服务条款、额度和网络环境影响；查询失败时插件显示错误并保留当前预览。
